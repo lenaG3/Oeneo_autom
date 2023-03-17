@@ -233,7 +233,7 @@
     "pend": "^1.2.0",
     "picomatch": "^2.3.1",
     "pify": "^3.0.0",
-    "playwright": "^1.31.2",
+    "playwright": "1.18",
     "playwright-core": "^1.31.2",
     "prepend-http": "^2.0.0",
     "process-nextick-args": "^2.0.1",
@@ -281,8 +281,8 @@
     "socket.io-parser": "^3.4.2",
     "sprintf-js": "^1.1.2",
     "statuses": "^2.0.1",
-    "string-width": "^2.1.1",
     "string_decoder": "^1.1.1",
+    "string-width": "^2.1.1",
     "strip-ansi": "^5.2.0",
     "strip-json-comments": "^3.1.1",
     "sumchecker": "^3.0.1",
@@ -328,6 +328,7 @@
     "yocto-queue": "^0.1.0"
   },
   "devDependencies": {
+    "@playwright/test": "^1.31.2",
     "mocha": "^10.2.0"
   },
   "scripts": {
